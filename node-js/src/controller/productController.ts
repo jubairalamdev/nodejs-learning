@@ -1,15 +1,11 @@
 import type { IncomingMessage, ServerResponse } from "node:http";
+import { readProduct } from "../service/products.service";
 
 export const productsController = (req: IncomingMessage, res: ServerResponse) => {
     const url = req.url
     const method = req.method
 
-    const products = [
-        {
-            id: 1,
-            name:"Product 1"
-        }
-    ]
+    const products = readProduct()
 
     if (url === "/products" && method === "GET") {
         res.writeHead(200, {"content-type": "application/json"})
