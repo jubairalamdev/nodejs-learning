@@ -1,17 +1,17 @@
 [
-    {
-        "id": 1,
-        "name": "Product -1",
-        "price": 200
-    },
-    {
-        "id": 2,
-        "name": "Product -2",
-        "price": 600
-    },
-    {
-        "id": 3,
-        "name": "Product -3",
-        "price": 600
-    }
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 29.99
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "price": 89.99
+  },
+  {
+    "id": 3,
+    "name": "USB-C Hub",
+    "price": 45.00
+  }
 ]
