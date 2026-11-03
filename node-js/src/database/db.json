@@ -1,17 +1,1 @@
-[
-  {
-    "id": 1,
-    "name": "Wireless Mouse",
-    "price": 29.99
-  },
-  {
-    "id": 2,
-    "name": "Mechanical Keyboard",
-    "price": 89.99
-  },
-  {
-    "id": 3,
-    "name": "USB-C Hub",
-    "price": 45.00
-  }
-]
+[{"id":1,"name":"Wireless Mouse","price":29.99},{"id":2,"name":"Mechanical Keyboard","price":89.99},{"id":3,"name":"USB-C Hub","price":45},{"id":1793727518452,"name":"Jubair","description":"Procuct Description","price":5000}]
